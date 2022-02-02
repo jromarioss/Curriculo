@@ -9,12 +9,14 @@
     text-align: center;
     width: 850px;
     height: 90%;
-    background-color: rgb(214, 214, 214);
+    background-color: rgb(241, 241, 241);
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.301);
 }
 
 #up {
     background-color: rgb(49, 49, 49); 
-    height: 40px;;
+    height: 40px;
+    border-radius: 5px 5px 0 0;
 }
 /* header */
 
@@ -137,7 +139,7 @@ section {
 
 footer {
     background-color: rgb(49, 49, 49);
-    
+    border-radius: 0 0 5px 5px;
 }
 
 footer p {
