@@ -156,6 +156,20 @@ section {
     top: 5px;
 }
 
+#certificados ul li {
+    margin-bottom: 5px;
+}
+
+#certificados ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+#certificados ul li a:hover {
+    text-decoration: underline;
+    transition: .5s;
+}
+
 /* footer */
 
 footer {
