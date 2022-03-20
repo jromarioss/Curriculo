@@ -125,6 +125,20 @@
   text-decoration: underline;
   transform: 0.2s;
 }
+#content-rigth footer {
+  margin: auto;
+  margin-bottom: 20px;
+  text-align: center;
+}
+#content-rigth footer a{
+  color: currentColor;
+  text-align: center;
+  text-decoration: none;
+}
+#content-rigth footer a:hover{
+  text-decoration: underline;
+  transition: 0.2s;
+}
 @media (max-width: 412px) {
   #container {
     width: 100%;
